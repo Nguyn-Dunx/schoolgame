@@ -1,0 +1,187 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1115" height="1010" viewBox="0 0 1115 1010" style="background:#0f172a;font-family:monospace;">
+<title>VMU Campus Tour 3D - Layout Audit Preview (1m = 3px)</title>
+<g stroke="#1e293b" stroke-width="1">
+<line x1="100" y1="40" x2="100" y2="970" />
+<text x="102" y="984" fill="#64748b" font-size="9">X=-220</text>
+<line x1="160" y1="40" x2="160" y2="970" />
+<text x="162" y="984" fill="#64748b" font-size="9">X=-200</text>
+<line x1="220" y1="40" x2="220" y2="970" />
+<text x="222" y="984" fill="#64748b" font-size="9">X=-180</text>
+<line x1="280" y1="40" x2="280" y2="970" />
+<text x="282" y="984" fill="#64748b" font-size="9">X=-160</text>
+<line x1="340" y1="40" x2="340" y2="970" />
+<text x="342" y="984" fill="#64748b" font-size="9">X=-140</text>
+<line x1="400" y1="40" x2="400" y2="970" />
+<text x="402" y="984" fill="#64748b" font-size="9">X=-120</text>
+<line x1="460" y1="40" x2="460" y2="970" />
+<text x="462" y="984" fill="#64748b" font-size="9">X=-100</text>
+<line x1="520" y1="40" x2="520" y2="970" />
+<text x="522" y="984" fill="#64748b" font-size="9">X=-80</text>
+<line x1="580" y1="40" x2="580" y2="970" />
+<text x="582" y="984" fill="#64748b" font-size="9">X=-60</text>
+<line x1="640" y1="40" x2="640" y2="970" />
+<text x="642" y="984" fill="#64748b" font-size="9">X=-40</text>
+<line x1="700" y1="40" x2="700" y2="970" />
+<text x="702" y="984" fill="#64748b" font-size="9">X=-20</text>
+<line x1="760" y1="40" x2="760" y2="970" />
+<text x="762" y="984" fill="#64748b" font-size="9">X=0</text>
+<line x1="820" y1="40" x2="820" y2="970" />
+<text x="822" y="984" fill="#64748b" font-size="9">X=20</text>
+<line x1="880" y1="40" x2="880" y2="970" />
+<text x="882" y="984" fill="#64748b" font-size="9">X=40</text>
+<line x1="940" y1="40" x2="940" y2="970" />
+<text x="942" y="984" fill="#64748b" font-size="9">X=60</text>
+<line x1="1000" y1="40" x2="1000" y2="970" />
+<text x="1002" y="984" fill="#64748b" font-size="9">X=80</text>
+<line x1="1060" y1="40" x2="1060" y2="970" />
+<text x="1062" y="984" fill="#64748b" font-size="9">X=100</text>
+<line x1="40" y1="55" x2="1075" y2="55" />
+<text x="4" y="58" fill="#64748b" font-size="9">Z=-280</text>
+<line x1="40" y1="115" x2="1075" y2="115" />
+<text x="4" y="118" fill="#64748b" font-size="9">Z=-260</text>
+<line x1="40" y1="175" x2="1075" y2="175" />
+<text x="4" y="178" fill="#64748b" font-size="9">Z=-240</text>
+<line x1="40" y1="235" x2="1075" y2="235" />
+<text x="4" y="238" fill="#64748b" font-size="9">Z=-220</text>
+<line x1="40" y1="295" x2="1075" y2="295" />
+<text x="4" y="298" fill="#64748b" font-size="9">Z=-200</text>
+<line x1="40" y1="355" x2="1075" y2="355" />
+<text x="4" y="358" fill="#64748b" font-size="9">Z=-180</text>
+<line x1="40" y1="415" x2="1075" y2="415" />
+<text x="4" y="418" fill="#64748b" font-size="9">Z=-160</text>
+<line x1="40" y1="475" x2="1075" y2="475" />
+<text x="4" y="478" fill="#64748b" font-size="9">Z=-140</text>
+<line x1="40" y1="535" x2="1075" y2="535" />
+<text x="4" y="538" fill="#64748b" font-size="9">Z=-120</text>
+<line x1="40" y1="595" x2="1075" y2="595" />
+<text x="4" y="598" fill="#64748b" font-size="9">Z=-100</text>
+<line x1="40" y1="655" x2="1075" y2="655" />
+<text x="4" y="658" fill="#64748b" font-size="9">Z=-80</text>
+<line x1="40" y1="715" x2="1075" y2="715" />
+<text x="4" y="718" fill="#64748b" font-size="9">Z=-60</text>
+<line x1="40" y1="775" x2="1075" y2="775" />
+<text x="4" y="778" fill="#64748b" font-size="9">Z=-40</text>
+<line x1="40" y1="835" x2="1075" y2="835" />
+<text x="4" y="838" fill="#64748b" font-size="9">Z=-20</text>
+<line x1="40" y1="895" x2="1075" y2="895" />
+<text x="4" y="898" fill="#64748b" font-size="9">Z=0</text>
+<line x1="40" y1="955" x2="1075" y2="955" />
+<text x="4" y="958" fill="#64748b" font-size="9">Z=20</text>
+</g>
+<rect x="76" y="70" width="960" height="825" fill="#1e293b" fill-opacity="0.35" stroke="#f97316" stroke-width="2" stroke-dasharray="6,4" />
+<rect x="263.5" y="715" width="645" height="156" fill="#475569" fill-opacity="0.45" stroke="#64748b" stroke-dasharray="2,2" />
+<rect x="844" y="175" width="36" height="630" fill="#475569" fill-opacity="0.45" stroke="#64748b" stroke-dasharray="2,2" />
+<rect x="400" y="302.5" width="36" height="435" fill="#475569" fill-opacity="0.45" stroke="#64748b" stroke-dasharray="2,2" />
+<rect x="418" y="565" width="276" height="18" fill="#475569" fill-opacity="0.45" stroke="#64748b" stroke-dasharray="2,2" />
+<rect x="340" y="373" width="450" height="24" fill="#475569" fill-opacity="0.45" stroke="#64748b" stroke-dasharray="2,2" />
+<g>
+<rect x="737.5" y="886.3000000000001" width="45" height="8.399999999999999" fill="#f8fafc" fill-opacity="0.55" stroke="#ffffff" stroke-width="1.5" />
+<text x="760" y="890.5" fill="#ffffff" font-size="10" font-weight="bold" text-anchor="middle">arch-gate-main</text>
+</g>
+<g>
+<rect x="766" y="715" width="96" height="96" fill="#eab308" fill-opacity="0.55" stroke="#ffffff" stroke-width="1.5" />
+<text x="814" y="763" fill="#ffffff" font-size="10" font-weight="bold" text-anchor="middle">star-plaza-main</text>
+</g>
+<g>
+<rect x="682" y="736" width="24" height="42" fill="#ef4444" fill-opacity="0.55" stroke="#ffffff" stroke-width="1.5" />
+<text x="694" y="757" fill="#ffffff" font-size="10" font-weight="bold" text-anchor="middle">monument-banh-lai-main</text>
+</g>
+<g>
+<rect x="490" y="187" width="288" height="168" fill="#16a34a" fill-opacity="0.55" stroke="#ffffff" stroke-width="1.5" />
+<text x="634" y="271" fill="#ffffff" font-size="10" font-weight="bold" text-anchor="middle">soccer-field-main</text>
+</g>
+<g>
+<rect x="196" y="148" width="204" height="114" fill="#0d9488" fill-opacity="0.55" stroke="#ffffff" stroke-width="1.5" />
+<text x="298" y="205" fill="#ffffff" font-size="10" font-weight="bold" text-anchor="middle">campus-lake-nw</text>
+</g>
+<g transform="rotate(0 550 661)">
+<rect x="448" y="640" width="204" height="42" fill="#B5522E" fill-opacity="0.8" stroke="#E9E2D0" stroke-width="2" />
+<text x="550" y="658" fill="#ffffff" font-size="9.5" font-weight="bold" text-anchor="middle">nha-hieu-bo-a1</text>
+<text x="550" y="670" fill="#fef08a" font-size="8.5" text-anchor="middle">3F (68x14m)</text>
+</g>
+<g transform="rotate(0 550 601)">
+<rect x="454" y="586" width="192" height="30" fill="#B5522E" fill-opacity="0.8" stroke="#E9E2D0" stroke-width="2" />
+<text x="550" y="598" fill="#ffffff" font-size="9.5" font-weight="bold" text-anchor="middle">nha-a1-wing-rear</text>
+<text x="550" y="610" fill="#fef08a" font-size="8.5" text-anchor="middle">2F (64x10m)</text>
+</g>
+<g transform="rotate(0 322 661)">
+<rect x="262" y="613" width="120" height="96" fill="#D8DDE3" fill-opacity="0.8" stroke="#F2F2EE" stroke-width="2" />
+<text x="322" y="658" fill="#ffffff" font-size="9.5" font-weight="bold" text-anchor="middle">toa-nha-mai-vom-a2</text>
+<text x="322" y="670" fill="#fef08a" font-size="8.5" text-anchor="middle">5F (40x32m)</text>
+</g>
+<g transform="rotate(0 172 721)">
+<rect x="136" y="655" width="72" height="132" fill="#B5522E" fill-opacity="0.8" stroke="#F2F2EE" stroke-width="2" />
+<text x="172" y="718" fill="#ffffff" font-size="9.5" font-weight="bold" text-anchor="middle">cum-giang-duong-tay-nam-1</text>
+<text x="172" y="730" fill="#fef08a" font-size="8.5" text-anchor="middle">4F (24x44m)</text>
+</g>
+<g transform="rotate(0 226 565)">
+<rect x="172" y="526" width="108" height="78" fill="#CBD5E1" fill-opacity="0.8" stroke="#F2F2EE" stroke-width="2" />
+<text x="226" y="562" fill="#ffffff" font-size="9.5" font-weight="bold" text-anchor="middle">cum-giang-duong-tay-nam-2</text>
+<text x="226" y="574" fill="#fef08a" font-size="8.5" text-anchor="middle">4F (36x26m)</text>
+</g>
+<g transform="rotate(0 262 433)">
+<rect x="211" y="397" width="102" height="72" fill="#2B72A8" fill-opacity="0.8" stroke="#F2F2EE" stroke-width="2" />
+<text x="262" y="430" fill="#ffffff" font-size="9.5" font-weight="bold" text-anchor="middle">toa-cao-tang-9f-tay</text>
+<text x="262" y="442" fill="#fef08a" font-size="8.5" text-anchor="middle">9F (34x24m)</text>
+</g>
+<g transform="rotate(0 358 445)">
+<rect x="328" y="406" width="60" height="78" fill="#2B72A8" fill-opacity="0.8" stroke="#E9E2D0" stroke-width="2" />
+<text x="358" y="442" fill="#ffffff" font-size="9.5" font-weight="bold" text-anchor="middle">hoi-truong-mai-xanh-tay</text>
+<text x="358" y="454" fill="#fef08a" font-size="8.5" text-anchor="middle">2F (20x26m)</text>
+</g>
+<g transform="rotate(0 550 469)">
+<rect x="493" y="406" width="114" height="126" fill="#B5522E" fill-opacity="0.8" stroke="#E9E2D0" stroke-width="2" />
+<text x="550" y="466" fill="#ffffff" font-size="9.5" font-weight="bold" text-anchor="middle">toa-trung-tam-gieng-troi</text>
+<text x="550" y="478" fill="#fef08a" font-size="8.5" text-anchor="middle">4F (38x42m)</text>
+</g>
+<g transform="rotate(0 754 481)">
+<rect x="706" y="400" width="96" height="162" fill="#B5522E" fill-opacity="0.8" stroke="#F2F2EE" stroke-width="2" />
+<text x="754" y="478" fill="#ffffff" font-size="9.5" font-weight="bold" text-anchor="middle">nha-thi-dau-da-nang</text>
+<text x="754" y="490" fill="#fef08a" font-size="8.5" text-anchor="middle">2F (32x54m)</text>
+</g>
+<g transform="rotate(0 820 475)">
+<rect x="805" y="403" width="30" height="144" fill="#B5522E" fill-opacity="0.8" stroke="#F2F2EE" stroke-width="2" />
+<text x="820" y="472" fill="#ffffff" font-size="9.5" font-weight="bold" text-anchor="middle">day-phu-nha-thi-dau</text>
+<text x="820" y="484" fill="#fef08a" font-size="8.5" text-anchor="middle">2F (10x48m)</text>
+</g>
+<g transform="rotate(0 910 499)">
+<rect x="889" y="385" width="42" height="228" fill="#2B72A8" fill-opacity="0.8" stroke="#F2F2EE" stroke-width="2" />
+<text x="910" y="496" fill="#ffffff" font-size="9.5" font-weight="bold" text-anchor="middle">day-nha-mai-xanh-dong</text>
+<text x="910" y="508" fill="#fef08a" font-size="8.5" text-anchor="middle">3F (14x76m)</text>
+</g>
+<g transform="rotate(0 454 271)">
+<rect x="437.5" y="193" width="33" height="156" fill="#2B72A8" fill-opacity="0.8" stroke="#F2F2EE" stroke-width="2" />
+<text x="454" y="268" fill="#ffffff" font-size="9.5" font-weight="bold" text-anchor="middle">day-nha-mai-xanh-giua</text>
+<text x="454" y="280" fill="#fef08a" font-size="8.5" text-anchor="middle">2F (11x52m)</text>
+</g>
+<g transform="rotate(0 718 121)">
+<rect x="679" y="97" width="78" height="48" fill="#B5522E" fill-opacity="0.8" stroke="#E9E2D0" stroke-width="2" />
+<text x="718" y="118" fill="#ffffff" font-size="9.5" font-weight="bold" text-anchor="middle">toa-ktx-7f-dong-bac-1</text>
+<text x="718" y="130" fill="#fef08a" font-size="8.5" text-anchor="middle">7F (26x16m)</text>
+</g>
+<g transform="rotate(0 808 121)">
+<rect x="769" y="97" width="78" height="48" fill="#B5522E" fill-opacity="0.8" stroke="#E9E2D0" stroke-width="2" />
+<text x="808" y="118" fill="#ffffff" font-size="9.5" font-weight="bold" text-anchor="middle">toa-ktx-7f-dong-bac-2</text>
+<text x="808" y="130" fill="#fef08a" font-size="8.5" text-anchor="middle">7F (26x16m)</text>
+</g>
+<g transform="rotate(0 616 121)">
+<rect x="568" y="100" width="96" height="42" fill="#2B72A8" fill-opacity="0.8" stroke="#F2F2EE" stroke-width="2" />
+<text x="616" y="118" fill="#ffffff" font-size="9.5" font-weight="bold" text-anchor="middle">toa-hoi-truong-bac</text>
+<text x="616" y="130" fill="#fef08a" font-size="8.5" text-anchor="middle">3F (32x14m)</text>
+</g>
+<g transform="rotate(0 502 121)">
+<rect x="457" y="100" width="90" height="42" fill="#94A3B8" fill-opacity="0.8" stroke="#F2F2EE" stroke-width="2" />
+<text x="502" y="118" fill="#ffffff" font-size="9.5" font-weight="bold" text-anchor="middle">cum-nha-5f-bac</text>
+<text x="502" y="130" fill="#fef08a" font-size="8.5" text-anchor="middle">5F (30x14m)</text>
+</g>
+<g transform="rotate(0 340 121)">
+<rect x="277" y="103" width="126" height="36" fill="#B5522E" fill-opacity="0.8" stroke="#E9E2D0" stroke-width="2" />
+<text x="340" y="118" fill="#ffffff" font-size="9.5" font-weight="bold" text-anchor="middle">day-nha-sau-ho-tay-bac</text>
+<text x="340" y="130" fill="#fef08a" font-size="8.5" text-anchor="middle">3F (42x12m)</text>
+</g>
+<circle cx="760" cy="895" r="6" fill="#f43f5e" stroke="#ffffff" stroke-width="2" />
+<line x1="760" y1="895" x2="805" y2="895" stroke="#ef4444" stroke-width="2.5" />
+<text x="810" y="899" fill="#ef4444" font-size="11" font-weight="bold">+X</text>
+<line x1="760" y1="895" x2="760" y2="850" stroke="#38bdf8" stroke-width="2.5" />
+<text x="752" y="843" fill="#38bdf8" font-size="11" font-weight="bold">-Z (Vào trường)</text>
+</svg>

@@ -1,0 +1,571 @@
+{
+  "campusSize": {
+    "width": 320,
+    "depth": 280,
+    "originDescription": "1 đơn vị = 1m. Gốc (0,0,0) tại tâm Cổng vòm Parabol mặt đường Lạch Tray. Trục -Z hướng thẳng vào trong khuôn viên."
+  },
+  "landmarks": [
+    {
+      "id": "arch-gate-main",
+      "type": "arch-gate",
+      "name": "Cổng Vòm Parabol Chính (484 Lạch Tray)",
+      "normPos": [
+        0.71,
+        0.01
+      ],
+      "position": [
+        0,
+        0,
+        -1.5
+      ],
+      "size": [
+        15,
+        7.8,
+        2.8
+      ],
+      "rotationY": 0,
+      "facingDeg": 0
+    },
+    {
+      "id": "star-plaza-main",
+      "type": "star-plaza",
+      "name": "Quảng Trường Ngôi Sao & Quả Địa Cầu VMU",
+      "normPos": [
+        0.76,
+        0.16
+      ],
+      "position": [
+        18,
+        0,
+        -44
+      ],
+      "size": [
+        32,
+        5.5,
+        32
+      ],
+      "rotationY": 0,
+      "facingDeg": 0
+    },
+    {
+      "id": "monument-banh-lai-main",
+      "type": "monument-banh-lai",
+      "name": "Đài Biểu Tượng Bánh Lái Tàu & Mỏ Neo",
+      "normPos": [
+        0.64,
+        0.17
+      ],
+      "position": [
+        -22,
+        0,
+        -46
+      ],
+      "size": [
+        8,
+        15.5,
+        14
+      ],
+      "rotationY": 0,
+      "facingDeg": 0
+    },
+    {
+      "id": "soccer-field-main",
+      "type": "soccer-field",
+      "name": "Sân Vận Động & Khán Đài VMU",
+      "normPos": [
+        0.58,
+        0.74
+      ],
+      "position": [
+        -42,
+        0,
+        -208
+      ],
+      "size": [
+        96,
+        8,
+        56
+      ],
+      "rotationY": 0,
+      "facingDeg": 0
+    },
+    {
+      "id": "campus-lake-nw",
+      "type": "campus-lake",
+      "name": "Hồ Nước Điều Hòa Khuôn Viên",
+      "normPos": [
+        0.23,
+        0.83
+      ],
+      "position": [
+        -154,
+        0,
+        -230
+      ],
+      "size": [
+        68,
+        1.5,
+        38
+      ],
+      "rotationY": 0,
+      "facingDeg": 0
+    }
+  ],
+  "buildings": [
+    {
+      "id": "nha-hieu-bo-a1",
+      "name": "Nhà Hiệu Bộ A1",
+      "description": "Tòa nhà hành chính trung tâm 3 tầng, tường kem sáng, mái ngói đỏ cam, sảnh đón 4 cột trắng, khối kính xanh 2 đầu hồi và biển chữ ĐẠI HỌC HÀNG HẢI VIỆT NAM trên đỉnh mái.",
+      "normPos": [
+        0.49,
+        0.28
+      ],
+      "position": [
+        -70,
+        0,
+        -78
+      ],
+      "footprint": [
+        68,
+        14
+      ],
+      "floors": 3,
+      "floorHeight": 4.0,
+      "roofStyle": "hip",
+      "roofHeight": 3.2,
+      "wallColor": "#E9E2D0",
+      "roofColor": "#B5522E",
+      "baseColor": "#7A828C",
+      "windowStyle": "mixed-a1",
+      "hasPortico": true,
+      "porticoOffsetX": -8,
+      "hasSideGlassWing": true,
+      "roofSignText": "ĐẠI HỌC HÀNG HẢI VIỆT NAM",
+      "confidence": "high"
+    },
+    {
+      "id": "nha-a1-wing-rear",
+      "name": "Dãy Phụ Phía Sau Nhà A1",
+      "description": "Dãy nhà 2 tầng mái ngói đỏ nằm song song ngay phía sau Nhà Hiệu Bộ A1.",
+      "normPos": [
+        0.49,
+        0.35
+      ],
+      "position": [
+        -70,
+        0,
+        -98
+      ],
+      "footprint": [
+        64,
+        10
+      ],
+      "floors": 2,
+      "floorHeight": 3.8,
+      "roofStyle": "hip",
+      "roofHeight": 2.4,
+      "wallColor": "#E9E2D0",
+      "roofColor": "#B5522E",
+      "windowStyle": "grid",
+      "confidence": "high"
+    },
+    {
+      "id": "toa-nha-mai-vom-a2",
+      "name": "Tòa Nhà Mái Vòm Bán Cầu Xanh (Bên Trái A1)",
+      "description": "Tòa nhà 5 tầng kiến trúc khối chữ U bên trái Nhà Hiệu Bộ, nổi bật với trống hình trụ trắng và mái vòm bán cầu màu xanh dương chia múi trên góc phải.",
+      "normPos": [
+        0.25,
+        0.28
+      ],
+      "position": [
+        -146,
+        0,
+        -78
+      ],
+      "footprint": [
+        40,
+        32
+      ],
+      "floors": 5,
+      "floorHeight": 3.6,
+      "roofStyle": "flat",
+      "wallColor": "#F2F2EE",
+      "roofColor": "#D8DDE3",
+      "baseColor": "#7A828C",
+      "windowStyle": "horizontal-strip",
+      "hasBalconies": true,
+      "hasDomeTower": true,
+      "domeOffset": [
+        12,
+        9
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "cum-giang-duong-tay-nam-1",
+      "name": "Giảng Đường Góc Tây Nam (Mặt Tiền Đường Lạch Tray)",
+      "description": "Tòa giảng đường 4 tầng mái ngói đỏ nằm sát góc trái mặt tiền khuôn viên.",
+      "normPos": [
+        0.1,
+        0.21
+      ],
+      "position": [
+        -196,
+        0,
+        -58
+      ],
+      "footprint": [
+        24,
+        44
+      ],
+      "floors": 4,
+      "floorHeight": 3.6,
+      "roofStyle": "hip",
+      "roofHeight": 2.8,
+      "wallColor": "#F2F2EE",
+      "roofColor": "#B5522E",
+      "windowStyle": "grid",
+      "hasBalconies": true,
+      "confidence": "high"
+    },
+    {
+      "id": "cum-giang-duong-tay-nam-2",
+      "name": "Khối Giảng Đường Phụ Tây Nam",
+      "description": "Khối nhà 4 tầng mái bằng nằm nối tiếp phía sau cụm giảng đường Tây Nam.",
+      "normPos": [
+        0.15,
+        0.39
+      ],
+      "position": [
+        -178,
+        0,
+        -110
+      ],
+      "footprint": [
+        36,
+        26
+      ],
+      "floors": 4,
+      "floorHeight": 3.5,
+      "roofStyle": "flat",
+      "wallColor": "#F2F2EE",
+      "roofColor": "#CBD5E1",
+      "windowStyle": "grid",
+      "confidence": "medium"
+    },
+    {
+      "id": "toa-cao-tang-9f-tay",
+      "name": "Tòa Nhà Cao Tầng Trắng 9 Tầng (Khu Phía Tây)",
+      "description": "Tòa nhà 9 tầng màu trắng quy mô lớn ở phía Tây khuôn viên, có mái vòm cong màu xanh dương trên tầng thượng.",
+      "normPos": [
+        0.19,
+        0.55
+      ],
+      "position": [
+        -166,
+        0,
+        -154
+      ],
+      "footprint": [
+        34,
+        24
+      ],
+      "floors": 9,
+      "floorHeight": 3.6,
+      "roofStyle": "arched-roof",
+      "roofHeight": 2.5,
+      "wallColor": "#F2F2EE",
+      "roofColor": "#2B72A8",
+      "windowStyle": "grid",
+      "confidence": "high"
+    },
+    {
+      "id": "hoi-truong-mai-xanh-tay",
+      "name": "Nhà Thực Hành Mái Xanh (Cạnh Tòa 9 Tầng)",
+      "description": "Công trình 2 tầng mái xanh dương rộng nằm bên phải tòa nhà 9 tầng.",
+      "normPos": [
+        0.29,
+        0.54
+      ],
+      "position": [
+        -134,
+        0,
+        -150
+      ],
+      "footprint": [
+        20,
+        26
+      ],
+      "floors": 2,
+      "floorHeight": 4.2,
+      "roofStyle": "gable",
+      "roofHeight": 2.4,
+      "wallColor": "#E9E2D0",
+      "roofColor": "#2B72A8",
+      "windowStyle": "horizontal-strip",
+      "confidence": "medium"
+    },
+    {
+      "id": "toa-trung-tam-gieng-troi",
+      "name": "Tòa Giảng Đường Trung Tâm (Khối Giếng Trời Sau A1)",
+      "description": "Tòa nhà lớn 4 tầng bao quanh sân trong có giếng trời, tường màu vàng kem, mái ngói đỏ cam.",
+      "normPos": [
+        0.49,
+        0.51
+      ],
+      "position": [
+        -70,
+        0,
+        -142
+      ],
+      "footprint": [
+        38,
+        42
+      ],
+      "floors": 4,
+      "floorHeight": 3.8,
+      "roofStyle": "courtyard-hip",
+      "roofHeight": 2.8,
+      "wallColor": "#E9E2D0",
+      "roofColor": "#B5522E",
+      "windowStyle": "grid",
+      "confidence": "high"
+    },
+    {
+      "id": "nha-thi-dau-da-nang",
+      "name": "Nhà Thi Đấu & Hội Trường Đại Dương (Mái Đỏ Lớn)",
+      "description": "Tổ hợp nhà thi đấu và hội trường mái đỏ cam khẩu độ lớn nằm bên phải trục trung tâm.",
+      "normPos": [
+        0.7,
+        0.49
+      ],
+      "position": [
+        -2,
+        0,
+        -138
+      ],
+      "footprint": [
+        32,
+        54
+      ],
+      "floors": 2,
+      "floorHeight": 5.2,
+      "roofStyle": "gable",
+      "roofHeight": 3.8,
+      "wallColor": "#F2F2EE",
+      "roofColor": "#B5522E",
+      "windowStyle": "horizontal-strip",
+      "confidence": "high"
+    },
+    {
+      "id": "day-phu-nha-thi-dau",
+      "name": "Dãy Nhà Phụ Cạnh Nhà Thi Đấu",
+      "description": "Dãy nhà 2 tầng mái đỏ chạy song song bên phải Nhà Thi Đấu.",
+      "normPos": [
+        0.77,
+        0.5
+      ],
+      "position": [
+        20,
+        0,
+        -140
+      ],
+      "footprint": [
+        10,
+        48
+      ],
+      "floors": 2,
+      "floorHeight": 3.8,
+      "roofStyle": "hip",
+      "roofHeight": 2.2,
+      "wallColor": "#F2F2EE",
+      "roofColor": "#B5522E",
+      "windowStyle": "grid",
+      "confidence": "high"
+    },
+    {
+      "id": "day-nha-mai-xanh-dong",
+      "name": "Dãy Giảng Đường & Xưởng Mái Xanh (Mép Đông)",
+      "description": "Dãy nhà dài 3 tầng mái tôn xanh dương chạy dọc theo tường rào phía Đông khuôn viên.",
+      "normPos": [
+        0.87,
+        0.47
+      ],
+      "position": [
+        50,
+        0,
+        -132
+      ],
+      "footprint": [
+        14,
+        76
+      ],
+      "floors": 3,
+      "floorHeight": 3.6,
+      "roofStyle": "hip",
+      "roofHeight": 2.4,
+      "wallColor": "#F2F2EE",
+      "roofColor": "#2B72A8",
+      "windowStyle": "horizontal-strip",
+      "hasBalconies": true,
+      "confidence": "high"
+    },
+    {
+      "id": "day-nha-mai-xanh-giua",
+      "name": "Dãy Nhà Mái Xanh Giữa Hồ & Sân Bóng",
+      "description": "Dãy nhà 2 tầng mái xanh dài ngăn cách khu vực hồ nước phía Tây và sân bóng đá.",
+      "normPos": [
+        0.39,
+        0.74
+      ],
+      "position": [
+        -102,
+        0,
+        -208
+      ],
+      "footprint": [
+        11,
+        52
+      ],
+      "floors": 2,
+      "floorHeight": 3.6,
+      "roofStyle": "hip",
+      "roofHeight": 2.0,
+      "wallColor": "#F2F2EE",
+      "roofColor": "#2B72A8",
+      "windowStyle": "horizontal-strip",
+      "confidence": "medium"
+    },
+    {
+      "id": "toa-ktx-7f-dong-bac-1",
+      "name": "Tòa Ký Túc Xá / Giảng Đường Cao Tầng Đông Bắc A",
+      "description": "Tòa nhà 7 tầng tường trắng kem, mái ngói đỏ cam nằm ở góc phía sau bên phải khuôn viên.",
+      "normPos": [
+        0.67,
+        0.92
+      ],
+      "position": [
+        -14,
+        0,
+        -258
+      ],
+      "footprint": [
+        26,
+        16
+      ],
+      "floors": 7,
+      "floorHeight": 3.4,
+      "roofStyle": "hip",
+      "roofHeight": 2.4,
+      "wallColor": "#E9E2D0",
+      "roofColor": "#B5522E",
+      "windowStyle": "grid",
+      "hasBalconies": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "toa-ktx-7f-dong-bac-2",
+      "name": "Tòa Ký Túc Xá / Giảng Đường Cao Tầng Đông Bắc B",
+      "description": "Tòa nhà 7 tầng song song ở góc Đông Bắc khuôn viên.",
+      "normPos": [
+        0.76,
+        0.92
+      ],
+      "position": [
+        16,
+        0,
+        -258
+      ],
+      "footprint": [
+        26,
+        16
+      ],
+      "floors": 7,
+      "floorHeight": 3.4,
+      "roofStyle": "hip",
+      "roofHeight": 2.4,
+      "wallColor": "#E9E2D0",
+      "roofColor": "#B5522E",
+      "windowStyle": "grid",
+      "hasBalconies": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "toa-hoi-truong-bac",
+      "name": "Tòa Nhà Phía Bắc Sân Vận Động",
+      "description": "Tòa nhà 3 tầng có kiến trúc mái xanh kết hợp mái đỏ nằm phía sau khán đài sân vận động.",
+      "normPos": [
+        0.56,
+        0.92
+      ],
+      "position": [
+        -48,
+        0,
+        -258
+      ],
+      "footprint": [
+        32,
+        14
+      ],
+      "floors": 3,
+      "floorHeight": 3.8,
+      "roofStyle": "hip",
+      "roofHeight": 2.4,
+      "wallColor": "#F2F2EE",
+      "roofColor": "#2B72A8",
+      "windowStyle": "curtain-glass",
+      "confidence": "medium"
+    },
+    {
+      "id": "cum-nha-5f-bac",
+      "name": "Cụm Nhà 5 Tầng Mái Bằng Phía Bắc",
+      "description": "Hai khối nhà 5 tầng mái bằng nằm giữa khu vực phía Bắc khuôn viên.",
+      "normPos": [
+        0.44,
+        0.92
+      ],
+      "position": [
+        -86,
+        0,
+        -258
+      ],
+      "footprint": [
+        30,
+        14
+      ],
+      "floors": 5,
+      "floorHeight": 3.4,
+      "roofStyle": "flat",
+      "wallColor": "#F2F2EE",
+      "roofColor": "#94A3B8",
+      "windowStyle": "grid",
+      "confidence": "medium"
+    },
+    {
+      "id": "day-nha-sau-ho-tay-bac",
+      "name": "Dãy Nhà 3 Tầng Phía Bắc Hồ Nước",
+      "description": "Dãy nhà 3 tầng tường trắng mái ngói đỏ nằm dọc bờ Bắc của hồ điều hòa.",
+      "normPos": [
+        0.27,
+        0.92
+      ],
+      "position": [
+        -140,
+        0,
+        -258
+      ],
+      "footprint": [
+        42,
+        12
+      ],
+      "floors": 3,
+      "floorHeight": 3.5,
+      "roofStyle": "hip",
+      "roofHeight": 2.2,
+      "wallColor": "#E9E2D0",
+      "roofColor": "#B5522E",
+      "windowStyle": "grid",
+      "confidence": "medium"
+    }
+  ]
+}

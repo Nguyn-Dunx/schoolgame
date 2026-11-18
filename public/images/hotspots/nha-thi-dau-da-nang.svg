@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1e3a5f" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)" />
+  <rect x="32" y="32" width="736" height="386" rx="16" fill="none" stroke="#b5522e" stroke-width="3" stroke-opacity="0.6" />
+  <circle cx="400" cy="165" r="46" fill="#b5522e" fill-opacity="0.2" stroke="#b5522e" stroke-width="2.5" />
+  <path d="M376 175 L400 140 L424 175 Z" fill="none" stroke="#f2f2ee" stroke-width="3" />
+  <text x="400" y="265" fill="#f2f2ee" font-family="sans-serif" font-size="26" font-weight="bold" text-anchor="middle">Hội Trường Đại Dương & Nhà Thi Đấu</text>
+  <text x="400" y="305" fill="#cbd5e1" font-family="sans-serif" font-size="17" text-anchor="middle">Tổ hợp thể thao và sự kiện sinh viên VMU</text>
+  <text x="400" y="365" fill="#94a3b8" font-family="monospace" font-size="13" text-anchor="middle">[Ảnh tư liệu cục bộ — Chờ cập nhật ảnh chụp thực tế VMU]</text>
+</svg>

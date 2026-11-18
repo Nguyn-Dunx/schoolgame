@@ -1,0 +1,3 @@
+# Đặt các file mô hình 3D (.glb nén Draco) của các tòa nhà và nhân vật vào thư mục này.
+# Nếu một tòa nhà trong src/data/campusLayout.json có thuộc tính "modelPath": "/models/ten-file.glb",
+# ProceduralBuilding sẽ tự động nạp mô hình GLB thay cho khối Procedural.

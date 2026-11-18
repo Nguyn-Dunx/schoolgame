@@ -1,0 +1,77 @@
+[
+  {
+    "id": "nha-hieu-bo-a1",
+    "name": "Nhà Hiệu Bộ A1",
+    "description": "Tòa nhà hành chính trung tâm 3 tầng của Trường Đại học Hàng Hải Việt Nam (484 Lạch Tray), nơi đặt Ban Giám hiệu và các phòng ban điều hành.",
+    "position": [-70, 0, -78],
+    "size": [68, 13.5, 14],
+    "sensorSize": [77, 16, 23],
+    "color": "#E9E2D0",
+    "status": "draft",
+    "credit": "Ảnh minh họa cục bộ VMU Campus Tour (Chờ bổ sung ảnh chụp thực tế)",
+    "TODO_VERIFY": true,
+    "images": [
+      "/images/hotspots/nha-hieu-bo-a1.svg"
+    ]
+  },
+  {
+    "id": "toa-nha-mai-vom-a2",
+    "name": "Tòa Nhà Mái Vòm Xanh (A2)",
+    "description": "Tòa nhà 5 tầng nằm bên trái Nhà Hiệu Bộ A1 với điểm nhấn kiến trúc mái vòm bán cầu xanh dương trên trống hình trụ trắng.",
+    "position": [-146, 0, -78],
+    "size": [40, 19, 32],
+    "sensorSize": [49, 22, 41],
+    "color": "#F2F2EE",
+    "status": "draft",
+    "credit": "Ảnh minh họa cục bộ VMU Campus Tour (Chờ bổ sung ảnh chụp thực tế)",
+    "TODO_VERIFY": true,
+    "images": [
+      "/images/hotspots/toa-nha-mai-vom-a2.svg"
+    ]
+  },
+  {
+    "id": "star-plaza-main",
+    "name": "Quảng Trường Ngôi Sao & Quả Địa Cầu",
+    "description": "Quảng trường lát gạch hình ngôi sao 8 cánh với hồ nước và Quả địa cầu vàng kim ở trung tâm, biểu tượng hội nhập hàng hải quốc tế.",
+    "position": [18, 0, -44],
+    "size": [32, 5.5, 32],
+    "sensorSize": [41, 9, 41],
+    "color": "#D4A72C",
+    "status": "draft",
+    "credit": "Ảnh minh họa cục bộ VMU Campus Tour (Chờ bổ sung ảnh chụp thực tế)",
+    "TODO_VERIFY": true,
+    "images": [
+      "/images/hotspots/star-plaza-main.svg"
+    ]
+  },
+  {
+    "id": "nha-thi-dau-da-nang",
+    "name": "Hội Trường Đại Dương & Nhà Thi Đấu",
+    "description": "Tổ hợp hội trường và nhà thi đấu đa năng mái đỏ cam lớn bên phải trục chính khuôn viên trường.",
+    "position": [-2, 0, -138],
+    "size": [32, 12, 54],
+    "sensorSize": [41, 15, 63],
+    "color": "#B5522E",
+    "status": "draft",
+    "credit": "Ảnh minh họa cục bộ VMU Campus Tour (Chờ bổ sung ảnh chụp thực tế)",
+    "TODO_VERIFY": true,
+    "images": [
+      "/images/hotspots/nha-thi-dau-da-nang.svg"
+    ]
+  },
+  {
+    "id": "toa-cao-tang-9f-tay",
+    "name": "Tòa Nhà Cao Tầng 9 Tầng & Trung Tâm Mô Phỏng",
+    "description": "Khối nhà 9 tầng màu trắng phía Tây khuôn viên, nơi đặt các phòng học chuyên ngành và khu thực hành mô phỏng hàng hải.",
+    "position": [-166, 0, -154],
+    "size": [34, 34, 24],
+    "sensorSize": [43, 36, 33],
+    "color": "#2B72A8",
+    "status": "draft",
+    "credit": "Ảnh minh họa cục bộ VMU Campus Tour (Chờ bổ sung ảnh chụp thực tế)",
+    "TODO_VERIFY": true,
+    "images": [
+      "/images/hotspots/toa-cao-tang-9f-tay.svg"
+    ]
+  }
+]

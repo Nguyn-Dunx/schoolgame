@@ -1,0 +1,27 @@
+====================================================================
+BÁO CÁO KIỂM TOÁN DỮ LIỆU MẶT BẰNG (scripts/audit-layout.mjs)
+====================================================================
+
+Tổng số tòa nhà (buildings): 17
+Tổng số cụm cảnh quan (landmarks): 5
+Tổng số hotspot trong hotspots.json: 5
+
+--- 1. CÁC CẶP CHỒNG LẤN FOOTPRINT (AABB / OBB & SUB-STRUCTURES) ---
+Không có cặp công trình/landmark nào chồng lấn trực tiếp.
+
+--- 2. CÔNG TRÌNH NẰM NGOÀI RANH GIỚI TƯỜNG RÀO KHUÔN VIÊN (X: [-228, 92], Z: [-275, 0]) ---
+Tất cả công trình đều nằm trọn trong ranh giới.
+
+--- 3. KIỂM TRA HOTSPOT & VÙNG SENSOR ---
+- Hotspot "nha-hieu-bo-a1" (Nhà Hiệu Bộ A1): pos=[-70, 0, -78], gần nhất="nha-hieu-bo-a1" (cách tâm 0m, cách mép 0m), trong vùng 4.5m=true, có Sensor Collider trong code=true [building (HotspotSensor)], TODO_VERIFY=true
+- Hotspot "toa-nha-mai-vom-a2" (Tòa Nhà Mái Vòm Xanh (A2)): pos=[-146, 0, -78], gần nhất="toa-nha-mai-vom-a2" (cách tâm 0m, cách mép 0m), trong vùng 4.5m=true, có Sensor Collider trong code=true [building (HotspotSensor)], TODO_VERIFY=true
+- Hotspot "star-plaza-main" (Quảng Trường Ngôi Sao & Quả Địa Cầu): pos=[18, 0, -44], gần nhất="star-plaza-main" (cách tâm 0m, cách mép 0m), trong vùng 4.5m=true, có Sensor Collider trong code=true [landmark (HotspotSensor in StarPlaza.tsx)], TODO_VERIFY=true
+- Hotspot "nha-thi-dau-da-nang" (Hội Trường Đại Dương & Nhà Thi Đấu): pos=[-2, 0, -138], gần nhất="nha-thi-dau-da-nang" (cách tâm 0m, cách mép 0m), trong vùng 4.5m=true, có Sensor Collider trong code=true [building (HotspotSensor)], TODO_VERIFY=true
+- Hotspot "toa-cao-tang-9f-tay" (Tòa Nhà Cao Tầng 9 Tầng & Trung Tâm Mô Phỏng): pos=[-166, 0, -154], gần nhất="toa-cao-tang-9f-tay" (cách tâm 0m, cách mép 0m), trong vùng 4.5m=true, có Sensor Collider trong code=true [building (HotspotSensor)], TODO_VERIFY=true
+
+- Công trình (buildings) CHƯA có hotspot (13/17): nha-a1-wing-rear, cum-giang-duong-tay-nam-1, cum-giang-duong-tay-nam-2, hoi-truong-mai-xanh-tay, toa-trung-tam-gieng-troi, day-phu-nha-thi-dau, day-nha-mai-xanh-dong, day-nha-mai-xanh-giua, toa-ktx-7f-dong-bac-1, toa-ktx-7f-dong-bac-2, toa-hoi-truong-bac, cum-nha-5f-bac, day-nha-sau-ho-tay-bac
+- Landmark CHƯA có hotspot (4/5): arch-gate-main, monument-banh-lai-main, soccer-field-main, campus-lake-nw
+
+--- 4. ĐỘ LỆCH GIỮA normPos [u, v] VÀ position [X, Z] (> 2.5m) ---
+
+--- 5. CẢNH BÁO DỮ LIỆU, GIAO THÔNG ĐÈ CÔNG TRÌNH & ĐỘ TIN CẬY ---
